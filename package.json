@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mthohir/webpack-intro/issues"
   },
-  "homepage": "https://github.com/mthohir/webpack-intro#readme"
+  "homepage": "https://github.com/mthohir/webpack-intro#readme",
+  "devDependencies": {
+    "webpack": "^4.31.0"
+  }
 }
